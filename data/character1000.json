@@ -1,0 +1,14 @@
+{
+  "name": "character1000",
+  "title": "Captain America",
+  "real": "Steven Rogers",
+  "date": "07-04-1918",
+  "description": "Steven Rogers was born in the Lower East Side of Manhattan, New York City, in 1925 to poor Irish immigrants, Sarah and Joseph Rogers. Joseph died when Steve was a child, and Sarah died of pneumonia while Steve was a teen. By early 1940, before America's entry into World War II, Rogers is a tall, scrawny fine arts student specializing in illustration and a comic book writer and artist. Disturbed by the rise of the Third Reich, Rogers attempts to enlist but is rejected due to his frail body. His resolution attracts the notice of U.S. Army General Chester Phillips and Project: Rebirth. Rogers is used as a test subject for the Super-Soldier project, receiving a special serum made by Dr. Josef Reinstein, later retroactively changed to a code name for the scientist Abraham Erskine. The serum is a success and transforms Steve Rogers into a nearly perfect human being with peak strength, agility, stamina, and intelligence.", 
+  "mainImageUrl": "capAmerica2.jpg",
+"abilities": [
+    "Peak human physical condition",
+    "Enhanced physical and mental faculties",
+    "Expert tactician, strategist, and field commander",
+    "Wields vibranium-steel alloy shield"
+  ]
+}

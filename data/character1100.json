@@ -1,0 +1,16 @@
+{
+  "name": "character1100",
+  "title": "Ironman",
+  "real": "Anthony Edward Stark aka Tony Stark",
+  "date": "06-29-1970",
+  "description": "Anthony Edward Stark, the son of wealthy industrialist and head of Stark Industries, Howard Stark, and Maria Stark. A boy genius, he enters MIT at the age of 15 to study electrical engineering and later receives master's degrees in electrical engineering and physics. After his parents are killed in a car accident, he inherits his father's company. Back home, Stark discovers that the shrapnel fragment lodged in his chest cannot be removed without killing him, and he is forced to wear the armor's chestplate beneath his clothes to act as a regulator for his heart. He must recharge the chestplate every day or else risk the shrapnel killing him. No one suspects Stark of being Iron Man, as he cultivates a strong public image of being a rich playboy and industrialist.", 
+  "mainImageUrl": "ironMan2.jpg",
+  "abilities": [
+    "Genius-level intellect",
+    "Proficient in science and engineering",
+    "Powered armor suit that gives off Superhuman strength and durability",
+    "Supersonic flight",
+    "Energy repulsor and missile projection",
+    "Regenerative life support"
+  ] 
+} 

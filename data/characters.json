@@ -1,0 +1,422 @@
+[
+  {
+    "name": "character1000", 
+    "title": "Captain America", 
+    "date": "07-04-1918",
+    "aStatus": "good", 
+    "image": "capAmerica.jpg" 
+  },
+  {
+    "name": "character1100", 
+    "title": "Ironman", 
+    "date": "06-29-1970",
+    "aStatus": "good", 
+    "image": "ironMan.jpg" 
+  },
+  {
+    "name": "character1200", 
+    "title": "Spider-Man", 
+    "date": "08-15-1962", 
+    "aStatus": "good",
+    "image": "spiderMan.jpg" 
+  },
+  {
+    "name": "character1300", 
+    "title": "Thor", 
+    "date": "00-00-0000", 
+    "aStatus": "good",
+    "image": "thor.jpg"
+  },
+    {
+    "name": "character1400", 
+    "title": "Hulk", 
+    "date": "12-18-1969", 
+    "aStatus": "good",
+    "image": "hulkSmash.jpg"
+  },  
+  {
+    "name": "character1500", 
+    "title": "Wolverine", 
+    "date": "00-00-0000", 
+    "aStatus": "good",
+    "image": "wolverine.jpg"
+  },
+  {
+    "name": "character1600", 
+    "title": "Black Widow", 
+    "date": "00-00-1928", 
+    "aStatus": "good",
+    "image": "blackWidow.jpg"
+  },
+    {
+    "name": "character1700", 
+    "title": "Hawkeye", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "hawkEye.jpg"
+  },
+    {
+    "name": "character1800", 
+    "title": "Ant-Man", 
+    "date": "00-00-0000", 
+    "aStatus": "good",
+    "image": "antMan.jpg"
+  },
+    {
+    "name": "character1900", 
+    "title": "Scarlet Witch", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "scarletWitch.jpg"
+  },
+    {
+    "name": "character2000", 
+    "title": "Quick Silver", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "quickSilver.jpg"
+  },
+    {
+    "name": "character2100", 
+    "title": "Vision", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "vision.jpg"
+  },
+      {
+    "name": "character2200", 
+    "title": "War Machine", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "warMachine.jpg"
+  },
+      {
+    "name": "character2300", 
+    "title": "Winter Soldier", 
+    "date": "06-18-1964", 
+    "bStatus": "bad",
+    "image": "winterSolder.jpg"
+  },
+      {
+    "name": "character2400", 
+    "title": "Black Panther", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "blackPanther.jpg"
+  },
+    {
+    "name": "character2500", 
+    "title": "Doctor Strange", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "drStrange.jpg"
+  },
+    {
+    "name": "character2600", 
+    "title": "Star-Lord", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "starLord.jpg"
+  },
+    {
+    "name": "character2700", 
+    "title": "Gamora", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "gamora.jpg"
+  },
+    {
+    "name": "character2800", 
+    "title": "Drax The Destroyer", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "draxTheDestroyer.jpg"
+  },
+      {
+    "name": "character2900", 
+    "title": "Rocket Raccoon", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "rocketRacoon.jpg"
+  },
+      {
+    "name": "character3000", 
+    "title": "Groot", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "groot.jpg"
+  },
+      {
+    "name": "character3100", 
+    "title": "Mantis", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "mantis.jpg"
+  },
+      {
+    "name": "character3200", 
+    "title": "Ghost Rider", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "ghostRider.jpg"
+  },
+        {
+    "name": "character3300", 
+    "title": "Dare Devil", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "dareDevil.jpg"
+  },
+        {
+    "name": "character3400", 
+    "title": "Jessica Jones", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "jessicaJones.jpg"
+  },
+        {
+    "name": "character3500", 
+    "title": "Luke Cage", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "lukeCage.jpg"
+  },
+        {
+    "name": "character3600", 
+    "title": "The Punisher", 
+    "date": "06-18-1964", 
+    "cStatus": "confused",
+    "image": "thePunisher.jpg"
+  },
+    {
+    "name": "character3700", 
+    "title": "Doctor Doom", 
+    "date": "06-18-1964", 
+    "bStatus": "bad",
+    "image": "drDoom.jpg"
+  },
+          {
+    "name": "character3800", 
+    "title": "Kingpin", 
+    "date": "06-18-1964", 
+    "bStatus": "bad",
+    "image": "kingPin.jpg"
+  },
+          {
+    "name": "character3900", 
+    "title": "Captain Marvel", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "captainMarvel.jpg"
+  },
+          {
+    "name": "character4000", 
+    "title": "Deadpool", 
+    "date": "06-18-1964", 
+    "cStatus": "confused",
+    "image": "deadPool.jpg"
+  },
+  {
+    "name": "character4100", 
+    "title": "She-Hulk", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "sheHulk.jpg"
+  },
+    {
+    "name": "character4200", 
+    "title": "Wasp", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "wasp.jpg"
+  },
+    {
+    "name": "character4300", 
+    "title": "Loki", 
+    "date": "06-18-1964", 
+    "bStatus": "bad",
+    "image": "loki.jpg"
+  },
+    {
+    "name": "character4400", 
+    "title": "Venom", 
+    "date": "06-18-1964", 
+    "bStatus": "bad",
+    "image": "venom.jpg"
+  },
+    {
+    "name": "character4500", 
+    "title": "Jean Grey", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "jeanGrey.jpg"
+  },
+  {
+    "name": "character4600", 
+    "title": "Cyclops", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "cyclops.jpg"
+  },
+    {
+    "name": "character4700", 
+    "title": "Professor X", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "professorX.jpg"
+  },
+    {
+    "name": "character4800", 
+    "title": "Beast", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "beast.jpg"
+  },
+    {
+    "name": "character4900", 
+    "title": "Rogue", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "rogue.jpg"
+  },
+    {
+    "name": "character5000", 
+    "title": "Gambit", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "gambit.jpg"
+  },
+    {
+    "name": "character5100", 
+    "title": "Thanos", 
+    "date": "06-18-1964", 
+    "bStatus": "bad",
+    "image": "thanos.jpg"
+  },
+  {
+    "name": "character5200", 
+    "title": "Green Goblin", 
+    "date": "06-18-1964", 
+    "bStatus": "bad",
+    "image": "greenGoblin.jpg"
+  },
+    {
+    "name": "character5300", 
+    "title": "Doctor Octopus", 
+    "date": "06-18-1964", 
+    "bStatus": "bad",
+    "image": "docOct.jpg"
+  },
+    {
+    "name": "character5400", 
+    "title": "Ultron", 
+    "date": "06-18-1964", 
+    "bStatus": "bad",
+    "image": "ultron.jpg"
+  },
+    {
+    "name": "character5500", 
+    "title": "Nightcrawler", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "nightCrawler.jpg"
+  },
+    {
+    "name": "character5600", 
+    "title": "Mystique", 
+    "date": "06-18-1964", 
+    "cStatus": "neutral",
+    "image": "mystique.jpg"
+  },
+  {
+    "name": "character5700", 
+    "title": "Silver Surfer", 
+    "date": "06-18-1964", 
+    "cStatus": "neutral",
+    "image": "silverSurfer.jpg"
+  },
+    {
+    "name": "character5800", 
+    "title": "Spider Woman", 
+    "date": "06-18-1964", 
+    "cStatus": "neutral",
+    "image": "spiderWoman.jpg"
+  },
+      {
+    "name": "character5900", 
+    "title": "Storm", 
+    "date": "06-18-1964", 
+    "aStatus": "good",
+    "image": "storm.jpg"
+  },
+      {
+    "name": "character6000", 
+    "title": "Ronan", 
+    "date": "06-18-1964", 
+    "bStatus": "bad",
+    "image": "ronan.jpg"
+  },
+      {
+    "name": "character6100", 
+    "title": "Galactus", 
+    "date": "06-18-1964", 
+    "bStatus": "bad",
+    "image": "galactus.jpg"
+  },
+      {
+    "name": "character6200", 
+    "title": "Yondu Agonda", 
+    "date": "06-18-1964", 
+    "cStatus": "neutral",
+    "image": "yondu.jpg"
+  },
+      {
+    "name": "character6300", 
+    "title": "Nebula", 
+    "date": "06-18-1964", 
+    "bStatus": "bad",
+    "image": "nebula.jpg"
+  },
+  {
+    "name": "character6400", 
+    "title": "Magneto", 
+    "date": "06-18-1964", 
+    "bStatus": "bad",
+    "image": "Magneto.jpg"
+  },
+    {
+    "name": "character6500", 
+    "title": "Emma Frost", 
+    "date": "06-18-1964", 
+    "bStatus": "bad",
+    "image": "emmaFrost.jpg"
+  },
+    {
+    "name": "character6600", 
+    "title": "Collector", 
+    "date": "06-18-1964", 
+    "cStatus": "neutral",
+    "image": "collector.jpg"
+  },
+  {
+    "name": "character6700", 
+    "title": "Apocalypse", 
+    "date": "06-18-1964", 
+    "bStatus": "bad",
+    "image": "apocalypse.jpg"
+  },
+    {
+    "name": "character6800", 
+    "title": "Red Skull", 
+    "date": "06-18-1964", 
+    "bStatus": "bad",
+    "image": "redSkull.jpg"
+  },
+  {
+    "name": "character6900", 
+    "title": "Madame Hydra", 
+    "date": "06-18-1964", 
+    "bStatus": "bad",
+    "image": "madameHydra.jpg"
+  }
+]

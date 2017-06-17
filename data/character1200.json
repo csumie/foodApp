@@ -1,0 +1,14 @@
+{
+  "name": "character1200",
+  "title": "Spider-Man",
+  "real": "Peter Parker",
+  "date": "08-15-1962",
+  "description": "Peter Parker is a science-whiz orphan living with his Uncle Ben and Aunt May. He is bitten by a radioactive spider at a science exhibit and acquires the agility and proportionate strength of an arachnid. Along with super strength, Parker gains the ability to adhere to walls and ceilings. Through his native knack for science, he develops a gadget that lets him fire adhesive webbing of his own design through small, wrist-mounted barrels. Initially seeking to capitalize on his new abilities, Parker dons a costume and, as Spider-Man, becomes a novelty television star. However, He blithely ignores the chance to stop a fleeing thief, and his indifference ironically catches up with him when the same criminal later robs and kills his Uncle Ben. Spider-Man tracks and subdues the killer and learns, in the story's next-to-last caption, With great power there must also comes great responsibility!", 
+  "mainImageUrl": "spiderMan2.jpg",
+  "abilities": [
+    "Superhuman strength, speed and agility",
+    "Ability to cling to most surfaces",
+    "Precognitive Spider-sense",
+    "Utilizes web-shooters to shoot strong spider-web strings from wrists"
+  ]
+}

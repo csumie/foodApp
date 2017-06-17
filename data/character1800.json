@@ -1,0 +1,15 @@
+{
+  "name": "character1800",
+  "title": "Ant-Man",
+  "real": "Henry Jonathan Pym aka Hank Pym",
+  "date": "00-00-0000",
+  "description": "Biophysicist and Security Operations Center expert Dr. Henry Hank Pym decided to become a superhero after discovering a chemical substance, Pym Particles, that would allow the user to alter his size. Armed with a helmet that could control ants, Pym would shrink down to the size of an insect to become the mystery-solving Ant-Man. He soon shared his discovery with his girlfriend Janet van Dyne, his crime-fighting partner as the Wasp. The duo would become founding members of the Avengers, fighting recurring enemies such as the mad scientist Egghead, the mutant Whirlwind, and Pym's own robotic creation Ultron. While Pym is the original Ant-Man, he has adopted other aliases over the years including Giant-Man, Goliath, Yellowjacket, and Wasp after Janet's presumed death in Secret Invasion. Leaving his original persona vacant, his successors have taken up the Ant-Man role while Pym explored these other identities.", 
+  "mainImageUrl": "antMan2.jpg",
+    "abilities": [
+    "Leading authority in myrmecology research",
+    "Size-shifting from nearly microscopic to 100 feet gigantic aka Giant-Man",
+    "Maintains strength of normal size in shrunken state",
+    "Bio-Energy Projection, also known as a Bio-Sting",
+    "Superhuman strength and agility"
+  ]
+}
