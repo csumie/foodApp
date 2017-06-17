@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>World of Marvel</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://code.angularjs.org/1.6.2/angular.min.js"></script>
+  <script src="https://code.angularjs.org/1.6.2/angular-route.min.js"></script>
+  <script src="/js/myapp.module.js"></script>
+  <script src="/js/myapp.config.js"></script>
+  <script src="/js/home/home-list.component.js"></script>
+  <script src="/js/characters/character-list.component.js"></script>
+  <script src="/js/characters/character-detail.component.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Bangers" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+  <base href="/">
+</head>
+
+<body ng-app="myApp">
+  <nav ng-controller="NavController">
+    <div class="panels">
+      <div class="panel" ng-class="{ active: isActive('/home') }">
+        <a href="/">Home</a>
+      </div>
+      <div class="panel" ng-class="{ active: isActive('/characters') }">
+        <a href="/characters">Characters</a>
+      </div>
+    </div>
+  </nav>
+  <div ng-view></div>
+  <script src="js/scripts.js"></script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<div class="logo">
+  <center><h1>CHARACTERS</h1></center>
+</div>
+<div class="wrap">
+  <span>
+    Search Character: <input ng-model=" $ctrl.query " />
+  </span>
+  
+  <span>
+    Sort Characters by:
+    <select ng-model="$ctrl.orderProp">
+    <option value="title">Alphabetical</option>
+    <option value="date">Newest</option>
+  </select>
+  </span>
+
+  <span>
+    Sort Status by:
+    <select ng-model="$ctrl.statusProp">
+    <option value="aStatus">Good</option>
+    <option value="bStatus">Bad</option>
+    <option value="cStatus">Neutral</option>
+  </select>
+  </span>
+</div>
+
+<div class="wrap">
+	<ul>
+		<li ng-repeat="character in $ctrl.characters | filter:$ctrl.query | orderBy:$ctrl.orderProp | orderBy:$ctrl.statusProp">
+			<img ng-src="img/marvel/{{ character.image }}" />
+			<div class="character-thumbs">
+			<h2><a href="characters/{{ character.name }}">{{ character.title }}</a></h2>
+			</div>
+		</li>
+	</ul>
+</div>

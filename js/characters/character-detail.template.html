@@ -1,0 +1,18 @@
+<div class="wrap" itemscope itemtype="http://schema.org/Character">
+    <h1>{{ $ctrl.character.title }}</h1>
+    <div class="mainImg">
+      <img ng-src="img/marvel/{{ $ctrl.character.mainImageUrl }}"/>
+    </div>
+    <div class="info">
+    <p>Real Name: {{ $ctrl.character.real }}</p>    
+    <p>Bio: {{ $ctrl.character.description }}</p>
+    <p>D.O.B: {{ $ctrl.character.date }}</p>
+    <p>Abilities: {{ $ctrl.characterId }}</p>
+    <ul>
+        <li ng-repeat="ability in $ctrl.character.abilities">
+            {{ ability }}
+        </li>
+    </ul>
+  </div>
+</div>
+
